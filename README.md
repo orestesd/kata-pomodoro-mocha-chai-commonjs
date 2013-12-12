@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/orestesd/kata-pomodoro-mocha-chai-commonjs.png?branch=master)](https://travis-ci.org/orestesd/kata-pomodoro-mocha-chai-commonjs)
+
 Un pomodoro en un pomodoro
 ====================
 
